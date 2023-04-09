@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @01YunusKaratas
+- 👋 Hi, I’m Yunus Emre KARATAS
 - 👀 I’m interested in Python ,JAVA and SQLITE Database
 - 🌱 I’m currently learning Python,Flask,Django,Selenium
 - 📫 How to reach me yunuskaratas589@gmail.com
