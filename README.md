@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre KARATAS</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
-https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01yunuskaratas&label=Profile%20views&color=0e75b6&style=flat" alt="01yunuskaratas" /> </p>
 
