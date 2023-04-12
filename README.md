@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre KARATAS</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src= "https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
+<img align="right" alt="Coding" width="400" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cu26c9piux6u5t68o9qk05vqc9ntkbkvzrhhlndb&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01yunuskaratas&label=Profile%20views&color=0e75b6&style=flat" alt="01yunuskaratas" /> </p>
