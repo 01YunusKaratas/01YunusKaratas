@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre KARATAS</h1>
 <h3 align="center">A passionate back-end developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cu26c9piux6u5t68o9qk05vqc9ntkbkvzrhhlndb&rid=giphy.gif&ct=g">
-
+<img align="right" alt="Coding" width="450" src= "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cu26c9piux6u5t68o9qk05vqc9ntkbkvzrhhlndb&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01yunuskaratas&label=Profile%20views&color=0e75b6&style=flat" alt="01yunuskaratas" /> </p>
 
@@ -14,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yunus karataş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus karataş" height="30" width="40" /></a>
-<a href="https://instagram.com/y.emre_karatas" target="blank"><img align="center" src=https://www.hackerrank.com/yunuskaratas589?hr_r=1" alt="y.emre_karatas" height="30" width="40" /></a>
+<a href="https://instagram.com/y.emre_karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.emre_karatas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yunus emre karataş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yunus emre karataş" height="30" width="40" /></a>
 </p>
 
@@ -26,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01yunuskaratas&show_icons=true&locale=en" alt="01yunuskaratas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01yunuskaratas&" alt="01yunuskaratas" /></p>
+
