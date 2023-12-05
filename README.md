@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01yunuskaratas&label=Profile%20views&color=0e75b6&style=flat" alt="01yunuskaratas" /> </p>
 
-- 🌱 I’m currently learning **Python,Sqlite,flask,django**
+- 🌱 I’m currently learning **PYTHON,CSS,JAVASCRIPT,NUMPY,PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/01YunusKaratas?tab=repositories](https://github.com/01YunusKaratas?tab=repositories)
 
