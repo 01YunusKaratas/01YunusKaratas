@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=01yunuskaratas&show_icons=true&locale=en&layout=compact" alt="01yunuskaratas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01yunuskaratas&show_icons=true&locale=en" alt="01yunuskaratas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01yunuskaratas&" alt="01yunuskaratas" /></p>
