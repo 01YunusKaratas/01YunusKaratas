@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01yunuskaratas" alt="01yunuskaratas" /></a> </p>
 
-- 🌱 I’m interested in languages **HTML5, CSS, JavaScript, MSSQL, PostgreSQL, C#, ASP.NET,React**
+- 🌱 I’m interested in languages **HTML5, CSS, JavaScript, MSSQL, PostgreSQL, C#, ASP.NET,React,RestApi,MVC Structure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/01YunusKaratas?tab=repositories](https://github.com/01YunusKaratas?tab=repositories)
 
